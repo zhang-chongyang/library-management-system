@@ -15,7 +15,7 @@ db_file_path = path + db_name
 # 日志名
 log_name = db_name + "_log"
 # 日志文件路径
-log_file_path = path + db_name + "_log"
+log_file_path = path + log_name
 
 
 # 建库建表
